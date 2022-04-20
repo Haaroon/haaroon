@@ -20,8 +20,8 @@ my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAA
 specialty is distributed temporal graph analytics, since most platforms are either too slow or 
 cannot perform this kind of analysis. Come say hello. 
 
-Prior to this I was a [Computer Science](http://www.cs.ucl.ac.uk/) 
-[PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student in
+Prior to this I graduated with a [Computer Science](http://www.cs.ucl.ac.uk/) 
+[PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) from
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
 Where I researched Investigating transcactions in cryptocurrencies under the supervision 
