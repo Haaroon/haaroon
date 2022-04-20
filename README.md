@@ -24,7 +24,7 @@ Prior to this I graduated with a [Computer Science](http://www.cs.ucl.ac.uk/)
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) from
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
-Where I researched Investigating transcactions in cryptocurrencies under the supervision 
+Where I researched Investigating transactions in cryptocurrencies under the supervision 
 of [Professor Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) and
 [Professor Jens Groth](http://www0.cs.ucl.ac.uk/staff/j.groth/), supported by 
 the [EU 2020 project](https://ec.europa.eu/programmes/horizon2020/) and 
