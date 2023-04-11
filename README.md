@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I work in research at [Pometry](https://www.pometry.com), a startup I co-founded in 2021, with 
-my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) from Queen Mary. Our 
+my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) and Hamza Alnaimi from Queen Mary. Our 
 specialty is distributed temporal graph analytics, since most platforms are either too slow or 
 cannot perform this kind of analysis. Come say hello. 
 
